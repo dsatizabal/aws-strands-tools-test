@@ -71,8 +71,8 @@ logging.getLogger("strands").setLevel(logging.DEBUG)
 #    text="Hi Diego, testing Polly from a Strands agent.",
 #    mode="polly",
 #    play_audio=False,
-#    output_path="prueba.mp3",
-#    voice_id="Lupe"
+#    output_path="test.mp3",
+#    voice_id="Salli"
 #)
 
 #result2 = agent.tool.calculator(expression="10000 * (1 + 0.07 * (18/12))")
